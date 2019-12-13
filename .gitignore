@@ -63,4 +63,4 @@ typings/
 # Parcel related files
 dist/
 .cache/
-.parcel-cache
+.parcel-cache/
