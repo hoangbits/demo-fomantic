@@ -1,0 +1,14 @@
+{
+  "name": "demo-fomantic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel login.html sign-up.html",
+    "build": "parcel build login.html sign-up.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-alpha.3.2",
+    "sass": "^1.23.7"
+  }
+}
